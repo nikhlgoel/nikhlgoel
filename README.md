@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
-<!--
-**nikhlgoel/nikhlgoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer from Ludhiana, India.  
+Building [Uzix](https://github.com/nikhlgoel/uzix) — an open-source multilingual prompt injection detector.
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/nikhlgoel.in-000?style=flat&logo=googlechrome&logoColor=white)](https://nikhlgoel.in)
+![Views](https://komarev.com/ghpvc/?username=nikhlgoel&style=flat&color=grey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+
+- **[Uzix](https://github.com/nikhlgoel/uzix)** — prompt injection detection for AI systems `Python`
+- **[Mias](https://github.com/nikhlgoel/Mias)** — Android app `Kotlin`
+- Web platforms for clients
+
+### Tech
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+
+### Learning
+
+Machine learning for security applications
+
+---
+
+### GitHub Stats
+
+<!-- All widgets below fetch live data from the GitHub API for nikhlgoel -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhlgoel&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlgoel&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117" width="40%" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=nikhlgoel&theme=github-dark-blue&hide_border=true&background=0D1117" width="55%" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhlgoel&theme=github-compact&hide_border=true&bg_color=0d1117&area=true" width="90%" />

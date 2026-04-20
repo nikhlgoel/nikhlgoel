@@ -32,11 +32,10 @@ Machine learning for security applications
 
 ### GitHub Stats
 
-<!-- All widgets below fetch live data from the GitHub API for nikhlgoel -->
+<!-- Live data from public repos. Private repo stats aren't included by the public API. -->
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhlgoel&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlgoel&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlgoel&layout=compact&langs_count=6&hide=c%2B%2B,c,cmake,shell,makefile&theme=github_dark&hide_border=true&bg_color=0d1117" width="40%" />
 </p>
 
 <p>

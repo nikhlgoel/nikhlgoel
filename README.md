@@ -155,36 +155,4 @@ HTML         ░░░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-</details>
 
----
-
-<!-- ═══════════════════ README NAV TERMINAL ═══════════════════ -->
-
-<details>
-<summary><strong>🖥️ Navigate this README</strong></summary>
-
-<br/>
-
-```
-nikhil@github:~/readme$ ls -la
-
-drwxr-xr-x  sections/
-  ├── ⚡ try-uzix ............... interactive demo — run uzix in codespaces
-  ├── 📁 projects ............... uzix, mias, client work
-  ├── 🧩 languages .............. pie chart + real usage breakdown
-  ├── 🛠️ tech-stack ............. full tools & frameworks list
-  ├── 📈 activity ............... streak, graph, contribution snake
-  └── 🖥️ navigate ............... you are here
-
-nikhil@github:~/readme$ cat quick-links.txt
-
-  Portfolio     →  https://nikhlgoel.in
-  Uzix repo     →  https://github.com/nikhlgoel/uzix
-  Mias repo     →  https://github.com/nikhlgoel/Mias
-  All repos     →  https://github.com/nikhlgoel?tab=repositories
-
-nikhil@github:~/readme$ _
-```
-
-</details>

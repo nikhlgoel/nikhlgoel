@@ -12,8 +12,8 @@ My current focus is on understanding how AI systems can be made more reliable an
 
 - **AI Security** — prompt injection detection, AI input security, security-focused ML
 - **Full-Stack Development** — web applications, APIs, databases, authentication and payments
-- **Android Development** — native applications with Kotlin
-- **Client Projects** — designing and developing web platforms based on real business requirements
+- **Android Development** — native applications with Kotlin & Flutter
+- **Client Projects** — designing and developing web platforms & android appiications based on real business requirements
 
 ---
 

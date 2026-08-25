@@ -1,42 +1,47 @@
 # Nikhil Goel
 
-Software developer building across **AI Security**, **Native Android**, and **Full-Stack Systems**. My work centers on making software systems resilient and practical—from defending LLM pipelines against adversarial inputs to building edge-native mobile apps and production web platforms.
+Software developer building **geospatial logistics infrastructure**, **cross-platform & native mobile applications**, and **from-scratch machine learning systems**.
 
-[Portfolio](https://nikhlgoel.in) · [GitHub](https://github.com/nikhlgoel)
-
----
-
-### What I'm Focused On
-
-- **AI Security & Defenses:** Auditing prompt injection vulnerabilities, analyzing adversarial inputs, and building inspectable guardrail pipelines for LLMs.
-- **Edge & Local-First Mobile:** Native Android development focused on privacy, on-device inference, and distributed device networking.
-- **Full-Stack Architecture:** End-to-end client applications with Next.js, Node.js, robust database schemas, secure authentication, and real-time features.
+[Portfolio](https://nikhlgoel.in)
 
 ---
 
-### Selected Projects
+### What I Build
+
+- **Geospatial & Logistics Infrastructure:** Engineering real-time routing engines, spatial queries, and high-concurrency dispatch backends using Node.js, Dockerized OSRM, PostgreSQL + PostGIS, and Redis.
+- **Mobile Engineering (Cross-Platform & Native):** Multi-platform apps with Flutter/Dart (Android & iOS) alongside local-first native Android applications (Kotlin, Jetpack Compose) running on-device LLM inference.
+- **ML Systems & Research:** Implementing from-scratch model architectures—such as Neural Cellular Automata (PyTorch/CUDA with `uv`)—and exploring localized inference runtimes (`llama.cpp`).
+- **Production Full-Stack Platforms:** Scalable web ecosystems, RBAC enterprise dashboards, and LMS platforms using Next.js, TypeScript, and Firebase.
+
+---
+
+### Selected Work & Architectures
+
+- **MioRyde** — *On-Demand Intra-City Logistics Ecosystem*  
+  Full-scale logistics and dispatch infrastructure featuring dual cross-platform mobile apps (Consumer & Partner in Flutter/Dart) backed by a Dockerized geospatial routing engine (OSRM), PostgreSQL 17 + PostGIS spatial querying, Redis caching, and Node.js microservices.
 
 - **[Mias](https://github.com/nikhlgoel/Mias)** — *Local-First Android AI Assistant*  
-  A native Kotlin application for on-device inference with support for hybrid compute offloading over Tailscale networks.
+  Native Android application built with Kotlin and Jetpack Compose for on-device LLM inference (`llama.cpp`) with hybrid compute offloading over Tailscale networks using balanced PAKE protocols.
 
-- **[Uzix](https://github.com/nikhlgoel/uzix)** — *Prompt Injection Detection for AI Systems*  
-  An inspectable Python detection pipeline designed to identify adversarial instructions and malicious inputs across multilingual AI queries.
+- **[neural-ca](https://github.com/nikhlgoel/neural-ca)** — *From-Scratch Neural Cellular Automata*  
+  ML research project built in PyTorch/CUDA investigating emergent localized pixel rules, self-repair mechanisms, and lightweight model serving on consumer hardware.
 
-- **Client Platforms** — *Production Web & Mobile Ecosystems*  
-  Custom full-stack web and mobile systems built to client specifications—incorporating modern UI/UX, payment gateways, and scalable API backends.
+- **Enterprise & Educational Web Platforms**  
+  - **Vidyasaar:** NGO financial literacy platform with interactive modular courses, practice assessments, and automated badge/certificate issuance workflows.
+  - **Sepal Healthcare & Sai USA:** Enterprise management systems and administrative dashboards with role-based access controls (RBAC), Next.js, and Firebase cloud backends.
 
 ---
 
 ### Tech Stack
 
-- **Languages:** Python · Kotlin · TypeScript · JavaScript · SQL · Bash
-- **Web & Backend:** Next.js · React · Node.js · REST APIs · Redis · Firebase / Firestore
-- **Mobile & AI:** Android SDK · On-Device Inference · Prompt Security · Tailscale
-- **Environment & Tools:** Linux · Git · GitHub
+- **Languages:** TypeScript · Dart · Python · Kotlin · JavaScript · PL/pgSQL · C++ · Bash
+- **Mobile:** Flutter (Android & iOS) · Android SDK (Jetpack Compose) · React Native
+- **Backend & Geospatial:** Node.js · Next.js · PostgreSQL / PostGIS · OSRM · Redis · Firebase / Firestore · REST APIs
+- **AI & Systems:** PyTorch (CUDA) · `llama.cpp` · On-Device Inference · Tailscale
+- **DevOps & Tooling:** Docker · `uv` · Linux · Git / GitHub Actions · Vercel
 
 ---
 
-### Links & Contact
+### Connect
 
 - **Portfolio:** [nikhlgoel.in](https://nikhlgoel.in)
-- **GitHub:** [github.com/nikhlgoel](https://github.com/nikhlgoel)

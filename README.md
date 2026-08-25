@@ -1,123 +1,42 @@
 # Nikhil Goel
 
-**Developer · AI Security · Full-Stack · Android**
-
-I build software across AI security, web platforms, and Android applications.
-
-My current focus is on understanding how AI systems can be made more reliable and secure, while continuing to build production-oriented applications for real users and clients.
-
----
-
-## What I Work On
-
-- **AI Security** — prompt injection detection, AI input security, security-focused ML
-- **Full-Stack Development** — web applications, APIs, databases, authentication and payments
-- **Android Development** — native applications with Kotlin & Flutter
-- **Client Projects** — designing and developing web platforms & android appiications based on real business requirements
-
----
-
-## Selected Projects
-
-### Uzix
-
-**Prompt injection detection for AI systems**
-
-A security-focused project exploring detection of malicious or adversarial instructions in AI inputs.
-
-- Multilingual input analysis
-- Prompt injection detection
-- Python-based detection pipeline
-- Designed as an inspectable and extensible security tool
-
-[View repository](https://github.com/nikhlgoel/uzix)
-
----
-
-### Mias
-
-**Android application**
-
-Native Android application developed with Kotlin.
-
-- Kotlin
-- Android
-- Native application architecture
-
-[View repository](https://github.com/nikhlgoel/Mias)
-
----
-
-### Client Platforms
-
-**Production web applications**
-
-I develop web platforms for clients, covering both frontend and backend functionality.
-
-Typical work includes:
-
-- TypeScript / JavaScript
-- Next.js
-- Authentication
-- Database design
-- APIs
-- Payment integration
-- Responsive interfaces
-- Real-time application features
-
-Some client projects are private and therefore are not available publicly.
-
----
-
-## Technical Stack
-
-**Languages**
-
-Python · TypeScript · JavaScript · Kotlin · HTML · CSS
-
-**Web**
-
-Next.js · React · Node.js
-
-**Backend & Data**
-
-Firebase · Firestore · Redis · REST APIs
-
-**Mobile**
-
-Android · Kotlin
-
-**Security / AI**
-
-Prompt injection security · AI security · Machine learning
-
-**Tools**
-
-Git · GitHub · Linux · VS Code
-
----
-
-## Currently Learning
-
-**Machine Learning for Security Applications**
-
-I'm currently developing my understanding of machine learning with a focus on practical security applications, particularly around AI systems and adversarial inputs.
-
----
-
-## Approach
-
-I prefer building things that solve an actual problem over building projects purely to demonstrate a technology.
-
-My projects generally focus on one or more of:
-
-- solving a real user or business requirement
-- exploring a difficult technical problem
-- improving security or reliability
-- learning how systems behave under real-world constraints
-
----
-
-## Links
+Software developer building across **AI Security**, **Native Android**, and **Full-Stack Systems**. My work centers on making software systems resilient and practical—from defending LLM pipelines against adversarial inputs to building edge-native mobile apps and production web platforms.
 
 [Portfolio](https://nikhlgoel.in) · [GitHub](https://github.com/nikhlgoel)
+
+---
+
+### What I'm Focused On
+
+- **AI Security & Defenses:** Auditing prompt injection vulnerabilities, analyzing adversarial inputs, and building inspectable guardrail pipelines for LLMs.
+- **Edge & Local-First Mobile:** Native Android development focused on privacy, on-device inference, and distributed device networking.
+- **Full-Stack Architecture:** End-to-end client applications with Next.js, Node.js, robust database schemas, secure authentication, and real-time features.
+
+---
+
+### Selected Projects
+
+- **[Mias](https://github.com/nikhlgoel/Mias)** — *Local-First Android AI Assistant*  
+  A native Kotlin application for on-device inference with support for hybrid compute offloading over Tailscale networks.
+
+- **[Uzix](https://github.com/nikhlgoel/uzix)** — *Prompt Injection Detection for AI Systems*  
+  An inspectable Python detection pipeline designed to identify adversarial instructions and malicious inputs across multilingual AI queries.
+
+- **Client Platforms** — *Production Web & Mobile Ecosystems*  
+  Custom full-stack web and mobile systems built to client specifications—incorporating modern UI/UX, payment gateways, and scalable API backends.
+
+---
+
+### Tech Stack
+
+- **Languages:** Python · Kotlin · TypeScript · JavaScript · SQL · Bash
+- **Web & Backend:** Next.js · React · Node.js · REST APIs · Redis · Firebase / Firestore
+- **Mobile & AI:** Android SDK · On-Device Inference · Prompt Security · Tailscale
+- **Environment & Tools:** Linux · Git · GitHub
+
+---
+
+### Links & Contact
+
+- **Portfolio:** [nikhlgoel.in](https://nikhlgoel.in)
+- **GitHub:** [github.com/nikhlgoel](https://github.com/nikhlgoel)
